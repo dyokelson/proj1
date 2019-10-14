@@ -1,5 +1,5 @@
 # Binaries (products)
-bin/py_strip
+bin/lexer
 
 # Generated
 *.yy.cpp
